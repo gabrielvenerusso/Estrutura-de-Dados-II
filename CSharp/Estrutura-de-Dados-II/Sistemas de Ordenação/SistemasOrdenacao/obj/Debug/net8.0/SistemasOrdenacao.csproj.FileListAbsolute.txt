@@ -1,0 +1,14 @@
+C:\Temp\Estrutura de Dados\SistemasOrdenacao\bin\Debug\net8.0\SistemasOrdenacao.exe
+C:\Temp\Estrutura de Dados\SistemasOrdenacao\bin\Debug\net8.0\SistemasOrdenacao.deps.json
+C:\Temp\Estrutura de Dados\SistemasOrdenacao\bin\Debug\net8.0\SistemasOrdenacao.runtimeconfig.json
+C:\Temp\Estrutura de Dados\SistemasOrdenacao\bin\Debug\net8.0\SistemasOrdenacao.dll
+C:\Temp\Estrutura de Dados\SistemasOrdenacao\bin\Debug\net8.0\SistemasOrdenacao.pdb
+C:\Temp\Estrutura de Dados\SistemasOrdenacao\obj\Debug\net8.0\SistemasOrdenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Estrutura de Dados\SistemasOrdenacao\obj\Debug\net8.0\SistemasOrdenacao.AssemblyInfoInputs.cache
+C:\Temp\Estrutura de Dados\SistemasOrdenacao\obj\Debug\net8.0\SistemasOrdenacao.AssemblyInfo.cs
+C:\Temp\Estrutura de Dados\SistemasOrdenacao\obj\Debug\net8.0\SistemasOrdenacao.csproj.CoreCompileInputs.cache
+C:\Temp\Estrutura de Dados\SistemasOrdenacao\obj\Debug\net8.0\SistemasOrdenacao.dll
+C:\Temp\Estrutura de Dados\SistemasOrdenacao\obj\Debug\net8.0\refint\SistemasOrdenacao.dll
+C:\Temp\Estrutura de Dados\SistemasOrdenacao\obj\Debug\net8.0\SistemasOrdenacao.pdb
+C:\Temp\Estrutura de Dados\SistemasOrdenacao\obj\Debug\net8.0\SistemasOrdenacao.genruntimeconfig.cache
+C:\Temp\Estrutura de Dados\SistemasOrdenacao\obj\Debug\net8.0\ref\SistemasOrdenacao.dll
